@@ -6,6 +6,7 @@ namespace CSGO
     {
         static void Main()
         {
+            Console.WriteLine("AzazLong");
         }
     }
 }
