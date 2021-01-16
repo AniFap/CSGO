@@ -6,10 +6,6 @@ namespace CSGO
     {
         static void Main()
         {
-            while (true)
-            {
-                Console.WriteLine("Супер пупер чит");
-            }
         }
     }
 }
